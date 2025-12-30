@@ -1,5 +1,5 @@
 # Este proyecto se hace siguiendo el tutorial [React y Redux Toolkit CRUD (con TailwindCSS)](https://www.youtube.com/watch?v=w2rAP7d6ndg) 
-
+Mira el resultado ▶️ <a href="http://localhost:3000" target="_blank">aquí</a>  
 ***Nota:*** falta mejorar la resposividad, pero esa parte no se explora en el tutorial. 
   
 
