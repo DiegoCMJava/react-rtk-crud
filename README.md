@@ -1,3 +1,8 @@
+# Este proyecto se hace siguiendo el tutorial [React y Redux Toolkit CRUD (con TailwindCSS)](https://www.youtube.com/watch?v=w2rAP7d6ndg) 
+
+***Nota:*** falta mejorar la resposividad, pero esa parte no se explora en el tutorial. 
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
